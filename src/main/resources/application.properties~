@@ -7,7 +7,7 @@ spring.jpa.generate-ddl=true
 spring.jpa.database-platform=org.hibernate.dialect.PostgreSQL95Dialect
 
 # Environment Variable Defaults (Comment out or remove before checkin)
-DB_HOST=54.234.117.181
+DB_HOST=54.235.20.120
 DB_PORT=5432
 DB_NAME=postgres
 DB_USER=autos
